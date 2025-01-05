@@ -1,0 +1,9 @@
+@inproceedings{REPO025,
+    author = "Yang, Zhenhua and Peng, Dezhi and Kong, Yuxin and Zhang, Yuyi and Yao, Cong and Jin, Lianwen",
+    booktitle = "Proceedings of the AAAI conference on artificial intelligence",
+    number = "7",
+    pages = "6603--6611",
+    title = "{Fontdiffuser: One-shot font generation via denoising diffusion with multi-scale content aggregation and style contrastive learning}",
+    volume = "38",
+    year = "2024"
+}
